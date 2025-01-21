@@ -143,9 +143,11 @@ Different providers have different rate limits:
 
 ### Final Diagnosis (TXT)
 ```
-### Final Diagnosis:
+### Sample Final Diagnosis:
 
-[Detailed diagnosis text here]
+- **Stable angina:** The patient's symptoms of chest pain, shortness of breath, and nausea are consistent with stable angina, which is caused by a temporary reduction in blood flow to the heart muscle. This can be due to narrowing of the coronary arteries, often caused by atherosclerosis.
+- **Anxiety:** The patient's intermittent chest pain, shortness of breath, and nausea may be indicative of anxiety attacks. These symptoms can be triggered by stress, physical exertion, or other factors.
+- **Gastroesophageal reflux disease (GERD):** The patient's symptoms of chest pain, shortness of breath, and nausea can also be caused by GERD, which is a condition where stomach acid flows back into the esophagus.
 ```
 
 ### All Responses (JSON)
