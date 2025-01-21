@@ -13,6 +13,8 @@ An intelligent system that analyzes medical reports using multiple AI models thr
 
 ## 🔄 Process Flow
 
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/1b54ec4a-4391-48b3-8467-72965bf3d967)
+
 ```mermaid
 graph TD
     A[Medical Report] --> B[Load Report]
