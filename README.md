@@ -14,8 +14,9 @@ An intelligent system that analyzes medical reports using multiple AI models thr
 ## 🔄 Process Flow
 
 <div align="center">
-    ![PNG-OF-project](https://github.com/user-attachments/assets/13d3fcb5-ce61-4e9c-8ed3-54e9cf97456d)
+  <img src="https://github.com/user-attachments/assets/13d3fcb5-ce61-4e9c-8ed3-54e9cf97456d" alt="PNG-OF-project">
 </div>
+
 
 
 
