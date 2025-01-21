@@ -1,0 +1,36 @@
+Medical Case Report 1
+
+Patient ID: 987654
+Name: Sarah Williams
+Age: 42
+Gender: Female
+Date of Report: 2024-12-15
+
+Chief Complaint:
+The patient reports a gradual onset of persistent fatigue, occasional lightheadedness, and swelling in her ankles over the past four months. She mentions increased shortness of breath during physical activity and occasional palpitations, particularly when lying down at night.
+
+Medical History:
+
+    Family History: Father had a history of heart disease (coronary artery bypass graft surgery at age 58). Mother has hypertension and type 2 diabetes.
+    Personal Medical History:
+        Hypertension: Diagnosed at age 35; managed with ACE inhibitors.
+        Type 2 Diabetes: Diagnosed at age 40; managed with metformin and lifestyle modifications.
+    Lifestyle Factors: The patient is sedentary, has a high-sodium diet, and occasionally consumes alcohol.
+
+Medications:
+
+    Lisinopril (10 mg daily)
+    Metformin (500 mg twice daily)
+
+Recent Lab and Diagnostic Results:
+
+    Electrocardiogram (ECG): Normal sinus rhythm with occasional premature atrial contractions (PACs).
+    Blood Tests: Elevated fasting blood glucose (126 mg/dL); cholesterol levels: Total 220 mg/dL, LDL 140 mg/dL, HDL 48 mg/dL.
+    Echocardiogram: Mild left ventricular hypertrophy (LVH); ejection fraction 50%.
+    Chest X-ray: No signs of lung disease; mild cardiomegaly.
+
+Physical Examination Findings:
+
+    Vital Signs: Blood pressure 150/90 mmHg, heart rate 88 bpm, BMI 29.2.
+    Cardiovascular Exam: S1, S2 heart sounds; no murmurs, but slight peripheral edema.
+    Respiratory Exam: Clear breath sounds with no crackles or wheezing.

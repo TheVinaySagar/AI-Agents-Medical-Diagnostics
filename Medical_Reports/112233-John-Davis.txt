@@ -1,0 +1,34 @@
+Patient ID: 112233
+Name: John Davis
+Age: 55
+Gender: Male
+Date of Report: 2024-10-10
+
+Chief Complaint:
+The patient reports experiencing intermittent sharp chest pain, primarily on the left side of the chest, for the past two months. The pain is aggravated by deep breathing and physical exertion, and is sometimes associated with shortness of breath and nausea. The episodes last anywhere from 5 to 30 minutes and occur sporadically.
+
+Medical History:
+
+    Family History: Father had myocardial infarction at age 52. Mother had stroke at age 68.
+    Personal Medical History:
+        Hyperlipidemia: Diagnosed at age 48; managed with statins.
+        Osteoarthritis: Diagnosed at age 50; managed with NSAIDs and physical therapy.
+    Lifestyle Factors: The patient is overweight and has a sedentary lifestyle. He occasionally smokes and drinks alcohol.
+
+Medications:
+
+    Atorvastatin (20 mg daily)
+    Ibuprofen (200 mg as needed for joint pain)
+
+Recent Lab and Diagnostic Results:
+
+    Electrocardiogram (ECG): Sinus rhythm with no significant abnormalities.
+    Blood Tests: Cholesterol levels: Total 270 mg/dL, LDL 180 mg/dL, HDL 38 mg/dL. Normal troponin and CK-MB levels.
+    Chest X-ray: No signs of pneumonia or lung disease. Mild cardiomegaly.
+    Stress Test: Negative for ischemia, but patient experienced mild angina during the test.
+
+Physical Examination Findings:
+
+    Vital Signs: Blood pressure 135/85 mmHg, heart rate 76 bpm, BMI 31.1.
+    Cardiovascular Exam: Normal heart sounds, no murmurs.
+    Respiratory Exam: Clear breath sounds, no wheezing or crackles.

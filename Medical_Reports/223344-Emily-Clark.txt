@@ -1,0 +1,35 @@
+Patient ID: 223344
+Name: Emily Clark
+Age: 63
+Gender: Female
+Date of Report: 2024-11-22
+
+Chief Complaint:
+The patient reports increasing difficulty in breathing, especially when climbing stairs or walking briskly. She also experiences chronic cough with occasional sputum production and wheezing, especially in the mornings. Symptoms have progressively worsened over the past six months.
+
+Medical History:
+
+    Family History: Mother had asthma and chronic bronchitis. Father had COPD.
+    Personal Medical History:
+        Chronic Obstructive Pulmonary Disease (COPD): Diagnosed at age 55. Currently managed with inhalers (albuterol and fluticasone).
+        Hypertension: Diagnosed at age 50; managed with beta-blockers.
+    Lifestyle Factors: The patient is a former smoker, having quit 5 years ago after a 30-year history of smoking. She is not physically active and has a high-fat diet.
+
+Medications:
+
+    Albuterol inhaler (as needed)
+    Fluticasone inhaler (100 mcg twice daily)
+    Atenolol (25 mg daily)
+
+Recent Lab and Diagnostic Results:
+
+    Spirometry: Forced expiratory volume in 1 second (FEV1) 58% of predicted value, indicating moderate obstruction.
+    Chest X-ray: Hyperinflation of the lungs, flattened diaphragms; no signs of pneumonia.
+    Blood Tests: Normal complete blood count (CBC) and renal function tests.
+    Electrocardiogram (ECG): Normal sinus rhythm.
+
+Physical Examination Findings:
+
+    Vital Signs: Blood pressure 128/82 mmHg, heart rate 78 bpm, BMI 27.6.
+    Cardiovascular Exam: Normal heart sounds, no murmurs.
+    Respiratory Exam: Bilateral wheezing with reduced breath sounds at the bases.

@@ -1,0 +1,6 @@
+__pycache__/*
+/Utils/apikey.env
+/Utils/__init__.py
+/Utils/__pycache__/__init__.cpython-312.pyc
+/Utils/__pycache__/Agents.cpython-312.pyc
+/Utils/__pycache__/PdfHandler.cpython-312.pyc
