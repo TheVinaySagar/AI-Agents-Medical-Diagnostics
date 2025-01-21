@@ -56,7 +56,7 @@ medical-analysis/
 1. Clone the repository:
 ```bash
 git clone https://github.com/TheVinaySagar/AI-Agents-Medical-Diagnostics.git
-cd medical-analysis
+cd AI-Agents-Medical-Diagnostics
 ```
 
 2. Create and activate a virtual environment:
